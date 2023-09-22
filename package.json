@@ -1,0 +1,15 @@
+{
+	"name": "clarifion",
+	"version": "1.0.0",
+	"description": "test-assignment",
+	"scripts": {
+		"start": "npx serve",
+		"deploy": "gh-pages -d src"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AnaMariaValdesChile/clarifion.git"
+	},
+	"author": "Ana Maria Valdes",
+	"license": "MIT"
+}
